@@ -1,0 +1,7 @@
+GET http://localhost:3000/weather
+Content-Type: application/json
+
+{
+  "lat":37.698551,
+  "lon":-122.073959
+}
